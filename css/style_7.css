@@ -174,27 +174,26 @@ header {
             top: 100px;
             right: 16px;
             nav ul li {
-                font-size: 30px;
+            font-size: 30px;
             }
             }
         }
 
     .main-1 {
         .logos {
-            width: 400px;
-            margin-bottom:500px;
-            translate: 75% 165%;
+            width: 700px;
+            translate: 25% 110%;
             img {
-                width: 150px;
-                height: 150px;
+                width: 300px;
+                height: 300px;
             }
         }
         section {
             padding-top: 100px;
             img {
-                width: 500px;
-                height: 300px;
-                translate: 50% 0%;
+                width: 600px;
+                height: 400px;
+                translate: 32% 0%;
             }
         }
     }
